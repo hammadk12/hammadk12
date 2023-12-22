@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hammadk12
 - 👀 I’m interested in coding, nature, and music.
-- 🌱 I’m currently learning React & JavaScript.
-- 💞️ I’m looking to collaborate on a JavaScript/React project.
+- 🌱 I’m currently learning NextJS & JavaScript.
+- 💞️ I’m looking to collaborate on a Full Stack project.
 - 📫 How to reach me (hammadkhan15296@gmail.com)
 
 <!---
