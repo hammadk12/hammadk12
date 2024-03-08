@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, nature, and music.
 - 🌱 I’m currently learning NextJS & Python.
 - 💞️ I’m looking to collaborate on a Full Stack project.
-- 📫 How to reach me (hammadkhan15296@gmail.com)
+- 📫 How to reach me (LinkedIn: www.linkedin.com/in/hammad-khan--)
 
 <!---
 hammadk12/hammadk12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
