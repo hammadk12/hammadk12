@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hammadk12
 - 👀 I’m interested in coding, nature, and music.
-- 🌱 I’m currently learning NextJS & Python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on a Full Stack project.
 - 📫 How to reach me (LinkedIn: www.linkedin.com/in/hammad-khan--)
 
